@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Imseo]]></title>
+        <description><![CDATA[Imseo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Jan 2016 09:39:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Learn Everything Entrepreneurs and Freelancers Need to Know About Accounting]]></title>
+            <description><![CDATA[<article><h1>Learn Everything Entrepreneurs and Freelancers Need to Know About Accounting</h1><p>Avoid tax penalties, limit your liability, and keep more of your money Tired of reading through 30 different browser tabs looking for answers to your basic accounting questions? "Surely someone has already answered this" you tell yourself. It's not like you're the first person to ever have to report expenses or run payroll.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a810988f55139a19b5d2e9fe2d90c4c8f75605d.jpg"></article>]]></description>
+            <link>http://trevormckendrick.com/accounting-course-for-entrepreneurs-and-freelancers/</link>
+            <guid isPermaLink="false">2f6e8b56-06f6-4276-a7eb-ae71212662cc</guid>
+            <pubDate>Sat, 23 Jan 2016 09:39:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
