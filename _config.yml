@@ -1,0 +1,28 @@
+name: Imseo
+favicon: null
+layout_spectrum: 0.16269193473272026
+typography_spectrum: 0.8212190391495824
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.06627655774354935
+  lightness: 0.16097691468894482
+  saturation: 0.3312989170663059
+  rhythmicContrast: 0.8683765986934304
+purpose: []
